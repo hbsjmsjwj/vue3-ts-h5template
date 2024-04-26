@@ -1,4 +1,4 @@
-# vue3-ts-vant-rem-httemplate
+# vue3-ts-vant-rem-h5template
 
 ## Project setup
 ```
