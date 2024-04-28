@@ -10,9 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/qs": "^6.9.15",
     "amfe-flexible": "^2.2.1",
     "autoprefixer": "^10.4.19",
+    "axios": "^1.6.8",
+    "pinia": "^2.1.7",
+    "pinia-plugin-persistedstate": "^3.2.1",
     "postcss-pxtorem": "^6.1.0",
+    "qs": "^6.12.1",
     "vant": "^4.0.0",
     "vue": "^3.2.37"
   },
